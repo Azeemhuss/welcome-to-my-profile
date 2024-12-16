@@ -11,16 +11,3 @@ my portfolio
 * ⚡  i go gym a lot
 
 ### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-
-echo "# Azeemhuss" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Azeemhuss/Azeemhuss.git
-git push -u origin main
